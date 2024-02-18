@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-App-Portfolio/static/css/main.44578c68.css",
+    "main.js": "/React-App-Portfolio/static/js/main.38777ec2.js",
+    "static/js/787.a87d5298.chunk.js": "/React-App-Portfolio/static/js/787.a87d5298.chunk.js",
+    "static/media/pro3.png": "/React-App-Portfolio/static/media/pro3.32b83acc2d02af95b38c.png",
+    "static/media/pro5.png": "/React-App-Portfolio/static/media/pro5.9a9998c6c1ad21866331.png",
+    "static/media/pro9.png": "/React-App-Portfolio/static/media/pro9.acfb583033a483a7ebda.png",
+    "static/media/pro8.png": "/React-App-Portfolio/static/media/pro8.585ca14ac2eb2589761f.png",
+    "static/media/pixels 1 home.jpg": "/React-App-Portfolio/static/media/pixels 1 home.34be8625d6372e82c857.jpg",
+    "static/media/pro7.png": "/React-App-Portfolio/static/media/pro7.df3b534aa6de591f7204.png",
+    "static/media/pro4.png": "/React-App-Portfolio/static/media/pro4.fce25f5ebe3832ea5a4d.png",
+    "static/media/CentraNo2-Medium.ttf": "/React-App-Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/telephone.png": "/React-App-Portfolio/static/media/telephone.e295c936137c4d7b45a6.png",
+    "static/media/code_1903572.png": "/React-App-Portfolio/static/media/code_1903572.a6dd8918e35c33e97fbc.png",
+    "static/media/revicons.eot": "/React-App-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-App-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-App-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/React-App-Portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/React-App-Portfolio/index.html",
+    "static/media/nav-icon1.svg": "/React-App-Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/React-App-Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.44578c68.css.map": "/React-App-Portfolio/static/css/main.44578c68.css.map",
+    "main.38777ec2.js.map": "/React-App-Portfolio/static/js/main.38777ec2.js.map",
+    "787.a87d5298.chunk.js.map": "/React-App-Portfolio/static/js/787.a87d5298.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44578c68.css",
+    "static/js/main.38777ec2.js"
+  ]
+}
